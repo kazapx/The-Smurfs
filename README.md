@@ -1,0 +1,4 @@
+# The-Smurfs
+A very awful game. I am not talking about graphics, gameplay or gameplay physics. Actually there is no physics. There is no animation. I said bad to the code. Codes are unnecessarily long and bad coding.  </br>
+The game is all about reaching to Smurfette. There is a maze. You can change design of maze(map) from the harita.txt but you have to care about enemies spawn location. Anyway you shouldn't reach 0 score or below. If you reach you die. Golds and mushrooms give you scores but gargamel and azrael get score from you. Gargamel and his cat azrael want to reach you with using Dijkstra's shortest path algorithm. If the one of reach you and you won't 0 scores or below, gargamel and azrael will return to their spawn points. Anyway that's enough, you can get other things by playing the game.
+This game is made using java swing.
